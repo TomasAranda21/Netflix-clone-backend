@@ -1,7 +1,7 @@
 import express  from "express";
 import dotenv from 'dotenv';
 import cors from 'cors'
-import fileUpload from 'express-fileUpload'
+import fileUpload from 'express-fileupload'
 
 import conectDB from "./config/conectDB.js";
 import usersRoutes from './routes/usersRoutes.js'
