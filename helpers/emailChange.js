@@ -25,19 +25,17 @@ const emailChange = async (data) => {
     
     from: '"NETFLIX" misitio.online.web@gmail.com',
     to: email,
-    subject: 'Comprueba tu cuenta en NETFLIX',
-    text: 'Comprueba tu cuenta en NETFLIX',
+    subject: 'solicitud para cambiar email en NETFLIX',
+    text: 'solicitud para cambiar email en NETFLIX',
     html: 
     
-    `<p>¡Hola!, Comprueba tu cuenta en NETFLIX.</p>
-    <p> ¡Tu cuenta ya esta casi lista! Solo debes comprobarla en el siguiente enlace: </p>
-    <a href="${process.env.FRONTEND_URL}/change-email/${token}"> Comprobar Cuenta Ahora<a></p>
+    `<p>¡Hola!, solicitaste cambiar tu email de tu cuenta de Netflix.</p>
+    <p> Para cambiar el email ingresa al siguiente enlace: </p>
+    <a href="${process.env.FRONTEND_URL}/change-email/${token}"> Cambiar Email<a></p>
 
-    <p> Si tu no creaste esta cuenta puedes ignorar este mensaje. </p>
+    <p> Si tú no solicitaste cambiar el email de tu cuenta puedes ignorar este mensaje.</p>
     
     `,
-
-
 
    });
 
