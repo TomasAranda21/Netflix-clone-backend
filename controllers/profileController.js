@@ -100,7 +100,7 @@ const addProfile = async (req, res) => {
 
     }
 
-    if(req.files === null){
+    if(req.files === null || req.files === undefined){
 
         profile.profile_name = req.body.profile_name
 
@@ -114,7 +114,7 @@ const addProfile = async (req, res) => {
     if(req.files.img){
 
         if(profile.img){
-        
+
             const imgId = profile.img.url.split('/')
 
             const imgEnd = imgId[ imgId.length - 1 ]
