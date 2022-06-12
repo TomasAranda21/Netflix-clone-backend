@@ -23,7 +23,7 @@ const emailRegister = async (data) => {
 
    const info = await transporter.sendMail({
     
-    from: '"NETFLIX" misitio.online.web@gmail.com',
+    from: '"CLON DE NETFLIX" misitio.online.web@gmail.com',
     to: email,
     subject: 'Comprueba tu cuenta en NETFLIX',
     text: 'Comprueba tu cuenta en NETFLIX',

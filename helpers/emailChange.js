@@ -23,7 +23,7 @@ const emailChange = async (data) => {
 
    const info = await transporter.sendMail({
     
-    from: '"NETFLIX" misitio.online.web@gmail.com',
+    from: '"CLON DE NETFLIX" misitio.online.web@gmail.com',
     to: email,
     subject: 'solicitud para cambiar email en NETFLIX',
     text: 'solicitud para cambiar email en NETFLIX',
