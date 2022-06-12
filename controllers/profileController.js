@@ -91,6 +91,11 @@ const addProfile = async (req, res) => {
         const error = new Error('No existe un perfil');
         return res.status(403).json({msg: error.message})
     }
+
+    if(profile._id.toString() === "62a55ca453ba99d3354509f3"){
+        const error = new Error('Lo siento no puedes modificar un perfil de prueba :(');
+        return res.status(403).json({msg: error.message})
+    }
   
 
     if(profile.users._id.toString() !== req.users._id.toString()) {
