@@ -113,7 +113,9 @@ const addProfile = async (req, res) => {
 
     if(req.files.img){
 
-        if(profile.img){
+        if(profile.img !== undefined && profile.img !== null){
+
+            console.log(profile.img)
 
             const imgId = profile.img.url.split('/')
 
