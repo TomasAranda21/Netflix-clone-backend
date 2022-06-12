@@ -111,40 +111,72 @@ const addProfile = async (req, res) => {
 
     }
 
-    if(req.files.img){
+    try {
 
-        if(profile.img !== undefined && profile.img !== null){
+        if(req.files.img){
 
-            console.log(profile.img)
+            // the user dont have an image
+            if(profile.img.url === null || profile.img.url === undefined){
 
-            const imgId = profile.img.url.split('/')
+                let img;
+                
+                if(req.files.img){
 
-            const imgEnd = imgId[ imgId.length - 1 ]
+                    // Add img to cludinary
+                                    
+                    const result = await uploadImage(req.files.img.tempFilePath)
+                    await fs.remove(req.files.img.tempFilePath)
+                
+                    img = {
+                        url: result.secure_url,
+                        public_id: result.public_id
+                    }
 
-            const [ public_id ] = imgEnd.split('.')
-            
+                    profile.profile_name = req.body.profile_name
+                    profile.img = img
 
-            deleteImage( `netflix/${public_id}` )
-        }
+                    const profileSaved = await profile.save()
+                    
+                    return res.json(profileSaved)
 
-        const result = await uploadImage(req.files.img.tempFilePath)
+                }
+
+            }else{
+                // the user have an image
+
+                
+                const imgId = profile.img.url.split('/')
     
+                const imgEnd = imgId[ imgId.length - 1 ]
+    
+                const [ public_id ] = imgEnd.split('.')
+                
+    
+                deleteImage( `netflix/${public_id}` )
 
-        img = {
-            url: result.secure_url,
-            public_id: result.public_id
-        }
 
-        profile.profile_name = req.body.profile_name
-        profile.img = img
 
-        const updatedProfile = await profile.save()
+                const result = await uploadImage(req.files.img.tempFilePath)
+    
+                img = {
+                    url: result.secure_url,
+                    public_id: result.public_id
+                }
         
-
-        return res.json(updatedProfile)
-
-    }
-
+                profile.profile_name = req.body.profile_name
+                profile.img = img
+        
+                const updatedProfile = await profile.save()
+                
+        
+                return res.json(updatedProfile)
+            }
+    
+        }
+        
+        } catch (error) {
+            console.log(error)
+        }
  }
 
 
