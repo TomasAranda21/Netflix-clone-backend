@@ -174,11 +174,13 @@ const authenticateAuto = async (req, res) => {
 
 
 
-const getUser = (req, res) => {
+const getUser = async (req, res) => {
 
     const { users } = req
 
-    res.json(users)
+    const user = await Users.findById(users._id)
+
+    res.json(user)
     
 }
 
@@ -271,7 +273,7 @@ const changeEmail = async (req, res) => {
  
 
     if(!userExist){
-        const error = new Error("El email no a sido registrado")
+        const error = new Error("El email ingresado no ha sido registrado")
 
         return res.status(403).json({msg: error.message})
     }
