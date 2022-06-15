@@ -39,7 +39,7 @@ What could be added is a description of the movies, but I'll leave that for late
 
 
 
-## Project WebSite: https://netflix-clone-ta.netlify.app
+## Project WebSite: https://app-netflix-clone-ta.netlify.app
 
 ## Usage
 
