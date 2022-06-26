@@ -1,0 +1,1605 @@
+[
+
+    {
+        
+        "title": "tendencia",
+        "type": "tendencia",
+        "cat": "drama",
+
+        "content": [
+
+            {
+                "name": "stranger things",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRPZigDfdiYyJboaq0nTDjhhJ_WCuQ73ZSCxqxYVVbCQxH3DzPh9nTmpaiHD3TjozahEPOdIXW8tRcaWujNBJplzIWNl5VMjeJv-rdDerndGlnKtsK3JdVfSNDcYXfRcvbBEB2di5KBF_-mAm8GaSwnhFNg_ois4Wb7bNyE1cbWtW4-DE0OBYpeuSRXDnYSq5ZYoLsIOnCvWwIyPt62sHNH1l87uhtHV.jpg?r=f09"
+            },
+
+
+            {
+                "name": "interceptor",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "pelicula",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfaw7ZSZ96nGz6BIAn7eyC8bdwvMQ8L4VHoWF3-0Pd1M-Dxe0PjZI6El3cGmjGlzVDbGnQjvBUCCIsiv2GIw1HKPg92jvOY6mt7Bgz2Ds_AfHW0_RpiYQn4Le7DkrXHXtiXW1r8D5nSioP2IZIYmsgerQu4lGZUP1sZ-K5iXokdoqEa_dWnyrmQp21tfijc.jpg?r=921"
+            },
+
+            {
+                "name": "entrevias",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABb8_u-vJxPCmy-hl75FZ0FxE50eMirAZX-LDHTbWPM1jDg21p6sNOloClcRWl3tDoR_uNNNAQDXbvJcLuNkYgvLf78NnA0izMNxSBcoMGw7iGztRe-Wh_T8aPGXaMsv3Tx-kM4OT2MyeV1OStxi-xryIHJhYcbZopKiLFiclFOlgGg8HczGrurK66e9ty-0.jpg?r=47b"
+            },
+
+            {
+                "name": "una madre perfecta",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXU-KYzILFhe38Wr4k8NyyqK50nNl-M2N-pphBqnQvfz8jwxxHwvWg9sO_r9MGpg-yY1qYB7l3OfnnW_ltEkDNJTYFqE4gD_ulGDLNZiUQxREFl1Xbn3YSHkGgVn5ND1oRFK10_2cORq3eM5KpcG8hjYjzupYnvJ6uqUezAL5nOAHDq-vo1gUiY1lambTrY.jpg?r=28d"
+            },
+
+
+            {
+                "name": "café con aroma de mujer",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe3rJTg3GC0recIhIvFNmf8qhQgZlHuweSAGMtKvuhd649dlWmZICs68b0M80TWPaP1TzLYdrr3hT4hQFHVWK0_KidCbyr4JKuYZsBiD0Ho_chG4FCOFKwZVT7Ue-VsMJJet0LYCq5Ru9nmv2QZsXA0sLt3cWX-peaXhd40qM99-CwRm9-1gaT17AqKV8N0.jpg?r=b47"
+            },
+
+
+
+            {
+                "name": "El perfecto asesino",
+                
+                "addlist": false,
+                "description": "",
+                "category": "pelicula",
+                "type": "pelicula",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUglh1ogqSXOKzKGLVncwfxN2ZzFCjrGo5oRpvf3z_ki-OzhlNkVE7tprQ1nWSqbSNtLYbhB5G9Suu-TuH1ePnbB3mpV3A-37GY.webp?r=131"
+            },
+
+
+            {
+                "name": "gambito de dama",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABX2cFvMjmJuw-oU2zuy00GDtCup57FbfkQnTiXZwAH1dN_l5iSRCWPPmggs3QD9oTXjZ39QuA946DNEzMkNZMvy5Lv_Kdb3gmpbijlwa84Rj1xrOWlXCUa0KoeIEyQhYkhFb.jpg?r=402"
+            },
+
+            {
+                "name": "el faro",
+                
+                "addlist": false,
+                "description": "",
+                "category": "pelicula",
+                "type": "pelicula",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQTcfqJ4DUgh0AVtSIFJQcqWMQ4q6XEpBmnIsIxuIpYuRAUpDTHTPc1PZiiiuG0HWhaWIvPWY786-pIjDZHwFgEI0Ld95fQaDCk.webp?r=d70"
+            },
+
+
+            {
+                "name": "instinto peligroso",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "pelicula",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTGqenS6tdZCVIWVM8kh79AlHnux_fHb7bKPBStivtgGPfgzc6SqZT-aeTFPVU6MOYTfmH159I7mVZGLLz6LNqx57B6BfDe8P-iGGftR4GDa3EnwHgyCcGHEq-f-e_MUFrB8.jpg?r=9b6"
+            },
+
+
+            {
+                "name": "el abogado del linconln",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRk_Ff8vFjT11uxJI7iVsTlUcrGBJL7mi6xBH4AvBKaVNoZ8N9QTl7N90enj8UgSlxEU33A4j-D8_t2IJ5TqW7veWSODVxGM-Auj3WOh3qXISmQkjSncBsH_7vScmG5MQesf.jpg?r=7bb"
+            },
+
+
+
+            {
+                "name": "sonic",
+                
+                "addlist": false,
+                "description": "",
+                "category": "pelicula",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUDwsHj_LQ4-sWfBrgjWB14YwcUsioRm_lWPGGRcM36B4FF2bdnn_dKx7NHaMvgVjPE7IDT6Sa2vx6_9DfWMsczbak6nCtnBFHVdg8-IRN5ZfMhwN1y0Wn_naeb4SxjOcH5IXGjUaHSr_alsAxlKVyyr49IgYZY2efM.webp?r=36b"
+            },
+
+
+
+            {
+                "name": "the turning",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "pelicula",
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSwvyr1IogwbQnYPqDfoUmZpO9athUJLdvT7naQajfoNtVfx3CdxUhgrgec7TGjBLBdvd0QHGeT79IHgvnrwjLcUVdSoayaveA8.webp?r=57c"
+            },
+
+            {
+                "name": "la batalla de kamdesh",
+                
+                "addlist": false,
+                "description": "",
+                "category": "pelicula",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUwL86Otw2IozhOFmu0-V3Nv62aLAtbMAmDVbY_tkc15Tad2DsD18wxMm5IFTx1liIafRRm6rUrdPxG1vHRlEUXG1kx8cU_0KhI.webp?r=ab4"
+            },
+
+
+            {
+                "name": "the blacklist",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+                
+
+                "reputation": "",
+                "tendencia": "true",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYSGuxs7BByql-BZ74iyPPeb_YFtJax5skxSIpzTlagql0fdwBYsePG4wxjifpdKwlqRZbKK1AVOqTqrnFunEhGpeAD06oWDxY4qRIVHqfKBV8o-XlMPpEqGmWLE35K2S0vS64kp1izcKSukQrxtlbu20_rzRhq3tbxtfubh8zpamu6GobTHcQkyesXZfXTwS2zb.webp?r=de3"
+            }
+        
+
+        ]
+    
+    
+    },
+    
+    {
+        "title": "comedia",
+        "type": "pelicula",
+        "cat": "comedia",
+        "content": [
+
+                {
+                
+                    "name": "rick y morty",
+                    "addlist": false,
+                    
+                    "description": "",
+                    "reputation": "",
+                    "tendencia": "false",
+                    "category": "comedia",
+
+
+                    "type": "serie",
+
+
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABewuhFnoi_aqpE_A-5-aYzlJhWw7LozLd3YdmqZJxH-6FXCR5pGCxW48vSjrVDS9ywXzfGUQqjvjUMv29F6uLZVYRCKqVDoNcps.webp?r=015"
+                    
+                },
+
+                {
+                    "name": "f is family",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "serie",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABalpYRBk0onqZuBmF7CeppPpVDhI8tp--uskhPJ_03fLHSu57jOh-nmsak02OnD02BGDiE-bGJx96G6KP_tr5gSQhAf0OYNtuXgXTbVe5JbTQVoLQ7Jw5DFUtxlQ3e49yzgJ.jpg?r=a51"
+                },
+
+                {
+                    "name": "big mouth",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "serie",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeR35fCKUCKCOOTlCUTiaQxP6Ao1Bs0ADeaIQb5xcbkd3pcJs9BQjDznwPLEldNbjRHIR_C3PPC8tEliShmGtxGsBUYIhbSKmWkOZlWFBTrq4KVmTWSrYq9Vuer5t0GjN_P1.jpg?r=9bb"
+                },
+
+                {
+                    "name": "shrek",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+
+                
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRTxgeQ6Gud_hJsa82_wIyZ_Cd0wk3DZrJ4a5MvdWF2T3UpyiS60-haUYig3uC0XEQV3-KcIOTTabn0GLkg-M5-K-wHEpmlL47I.webp?r=e24"
+                }, 
+                
+                {
+                    "name": "si señor",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ8ifvSoP6HgMSxp3onU29rZOsluBpYp4A-X1174R8tbum2lLU8c6yMfegcEsLKr7_0mV1KLwCZz80WRj5KBCGeXyQD-jaX94NA.webp?r=4be"
+                },
+
+                {
+                    "name": "proyecto x",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcYwV9lUM73KQ_JHsCVo17_P80WwndijCluAH3Su-gMTZu_CHAlBMiVrDWTOydyko6WrZF4xJjCpOHC6EkYC8m1HRihdzhB6t_o.webp?r=973"
+                },
+
+                {
+                    "name": "kung fusión",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbg-F2vvZLCBHjBNO_Md1S_Eife8s7hj6QkDn59VI5rERZn80Jqeg3DSoV9yWYLVohiPS8pvehhbJinxWZgNWFNjlCozu6Wlgvg.webp?r=b9c"
+                },
+
+
+                {
+                    "name": "mentiroso mentiroso",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ3HEl1fyCeoJQTZomB_FiWvCFJmFXI-6AtSK3AzLEhkFlRalqqVy7SiE_5662DdqcCczWb_J4PQnannuI3Y050DGgDf1-tzzho.webp?r=30d"
+                },
+                {
+                    "name": "las locuras de dick y jane",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa1-6w4YLJ3TvE3Wls5GcrFoB4JGBEXpJ5DdY2mLGW2NJaPj2SeYvcw1bJHjL01NLJDro2PIU0b9FtSXOkbbTL6JOndSz7qu11Q.webp?r=cae"
+                },
+                {
+                    "name": "la mascara",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZSQyE6tw8SQ7joPJZqg9WesIq3QGycWwTxWIE2ORntm1xBQJjBWdi5mfEMiDNXwqRr7goxV3jGvZNTy-_U1sduGDCq-_0K45n8.webp?r=e6c"
+                },
+                {
+                    "name": "tu primera vez",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXKkpCEbbaXz1F6-puMhjakqFWlPKcKLEtHwVp_JNjXiUmaO8xvwWinhvBg5J6dKwDJRuOfM299mECYiWPVK4b5RcgIMLO4Ydp8.webp?r=630"
+                },
+
+                {
+                    "name": "ted 2",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABekLG2BUrAVfUazsyADdQyzigF-xWJvmXQE4TnQ_MFjIOSa9BoWd6R-g-wcdPIk5iomDZJgVCi0CZFm7vWl-TVfwzNoWPJa_kjM.webp?r=1ac"
+                },
+
+
+                {
+                    "name": "madagascar",
+                    
+                    "addlist": false,
+                    "description": "",
+                    "type": "pelicula",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUWQxY4_kb7xi5Bs9EqBBJEJYuFgfIrRxCn_5WkGcLovC-hT7J4Q6LWKzg5FjySwPhVv-RAmlKwyvUxBGliInNgLIiISCdiB_Vw.webp?r=f20"
+                },
+
+                {
+                    "name": "propuesta laboral",
+                    
+                    "addlist": "false",
+                    "description": "",
+                    "type": "serie",
+                    "category": "comedia",
+                    "reputation": "",
+                    "tendencia": "false",
+                    
+                    "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABX61Mpv-x_xkVzgb9Q23Mr4Vf3iWUbgGK41v8eQ93FwKO6PU7RLUzR_Rmf7EGNzLrNDizMTYM1iv6pdRJaazJoiFcl_RY7EUwRW11e33LG-4-W64KGhBU-B4c8C9Sb8yMwoYrwfALRy7xKT7ntf867jJn9CdLBtIwMpi6g.jpg?r=7c0"
+                }
+
+            ]
+    },
+
+
+    {
+        "title": "anime",
+        "type": "serie",
+        "cat": "anime",
+        "content": [
+
+            {
+                "name": "demon slayer",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVEs7XyLhx3HJ1i4qOyTxzavLktfUsxSelJbGbc58URAmXwo-vm982heId8s3EjE5dji84n4LtdkswPdK197lj7OfiQjB3Fs0Hs.webp?r=dd6"
+            },
+
+            {
+                "name": "one punch man",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa3F0QtR33BsNBAF_1UwVnxR1RtIlcegqaOneOeP6aL3fkDpNAlaDFo4kQ3E3JLtACM3RAd96leglzDU04qI7ZnwqX8BdHVmc5g.webp?r=aed"
+            },
+
+            {
+                "name": "psycho-pass",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVVwfMaWfXzmjT5WCzvEG4WTDNgbHuJoNswB2bVCCn1DP5_Zd6mSHyRJFFgwJ9KfV3S_Ly9peVvVtziIuE-8TiV5Lh8_oYYxgfI.webp?r=882"
+            },
+
+            {
+                "name": "the promised nerverland",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWJlhp2t0jST0YLv7jxlXuhId-wkOJ05sfmwhJQOMZAq29Lnw8jjZ2YIi41d8DeYoLcj3rnjN3Znf9YQR7Fp5kPiJ4MC7IAbKv4.webp?r=e62"
+            },
+
+            {
+                "name": "naruto",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXaD_T0abG3rEoZ-pzOo5seqKqTTJwVVxt4QV5rQlYgB2CMds73D5diKlT1D3bT-GJHRxW8ChbcweGJbepMyLZTnqlM0YLsmTrY.webp?r=256"
+            },
+
+            {
+                "name": "bakihanma",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZuAb0pXcPDErJ79P9itEVdrx0qtrBkE7inlqA09u_SDX4U2jbWwO_nCTxZaXqBM2pyFyiZwv9AmoAvSCMzUaiJyHPhApYf59KM8DId7cMEEBMgOmAXLDLWUz9tKY5Uehcn6.jpg?r=51a"
+            },
+
+            {
+                "name": "death note",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY9gUn83n-uSth7UnzR2dLo-Nl1_22LiqQZBGUr_EV98cPewCEByotg4MlNAAJ4A5-hyvz0GtF0z7LZlAjjlHmYhvksPkjB-o8c.webp?r=bc9"
+            },
+
+            {
+                "name": "desaparecido",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img":"https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABes4LvaKQ-Sir9e4WyCmc9ISkHW0xlaLMyW_sJoKwcVbXiJwQbQA3I3aawI2q0mahbSiyuawwHR6T9_o8Xv45gc1DvHwenTFZfA.webp?r=e10"
+            },
+        
+            {
+                "name": "ergo proxy",
+                
+                "addlist": false,
+                "description": "",
+                "category": "anime",
+                    "type": "serie",
+                    "reputation": "",
+                "tendencia": "false",
+                
+                "img":"https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaLTMcOakWuJ2hvhMfif19oNAIShX_Sp8DhXPzCT_C1GdM1KHggcXgjE6l7pRkpB0qkawOcIQOOgnZsOjmsoWWQgHLdAstFEke0.webp?r=5eb"
+            },
+
+            {
+                "name": "when they cry",
+                
+                "addlist": false,
+                "description": "",
+                    "type": "serie",
+                    "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU3UGqXFJ4ihs2qE8-09zQmD4lcsVKkGrlxfWwo35yrrY0us4eRhDRlq77HXw5A_hPqw4TMj1-j_t8qMESEq9y7FEoOxu1swxvE.webp?r=f01"
+            },
+            {
+                "name": "una voz silenciosa",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTM0sT8GiyNHeIo_7v1kgrtoHb2hZmM_hZJXuRDLfqZmhfequCruhzhK67-h7iCOlGgouGLRb6cUkwSoWNJ6_WiwUKKf3RdJgy4.webp?r=8f2"
+            },
+            {
+                "name": "super campeones",
+                
+                "addlist": false,
+                "description": "",
+                "type": "serie",
+                "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABey5TzwmQmDnKZUZyQnMXVUWbeYjLIaBAfXXdfHvZYoqrBfid8xieyf6zVpLCeRt59RS0ZUeh1eNRDEGzxJuOwzDJDZjo2FhJ0s.webp?r=27c"
+            },
+
+            {
+                "name": "el black lagoon",
+                
+                "addlist": false,
+                "description": "",
+                "type": "serie",
+                "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSLF9tf0wWXV8KngzK1Hru7ImRk_WZRdxJh8ji2ZNJb6D5qMxhcHf7MUpBtZa9UEiRIDMJ5FtMsMkl6SFkO5xaZyznHBP6PG-NU.webp?r=05b"
+            },
+            {
+                "name": "periodo azul",
+                
+                "addlist": false,
+                "description": "",
+                "type": "serie",
+                "category": "anime",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcWqGBnWPk-AdDF2-L8M3zDn8uOzY8BE5X1Jlb0p0odLChBVMb9ivwCtrV6GyBDyG_ZlGmdVJhGt5woGAgFW5CF-cbk8dTEmYyEwRjyOBllTASfyxPwC9iqfEWkTzJdN42sL.jpg?r=a94"
+            }
+
+
+        ]
+    },
+
+
+    {
+        "title": "terror",
+        "type": "pelicula",
+        "cat": "terror",
+        "content": [
+            {
+                "name": "silencio",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXjd3jNT2yNm0QXJPiYtad0x3--EBXO9uN4c35dyMZqc7Sc54B-E91FwydTPxRnCxX9opmN9Ulk5-fTRYEz28ml-fHAUHjLeAPI.webp?r=d67"
+            },
+            {
+                "name": "te veo",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTc_Z8kUvI05QSvnb1pRjlGIpvIJO8nYq7TicjkmTQLSlgb-Jxg149jsSgaXAuuqMf1eDZc4_NJoKtka8-Vkpjj7-hM2iDki8Zc9VGbkfoCmDeGeWVvFyHVcuaRc-i1XxAhu.jpg?r=701"
+            },
+            {
+                "name": "la noche del demonio",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfpzPeWFKo3xc_ShtTtyD5yXdThumToodz8OLF9_4j6fdnfWaY1VdVTx9fhjDSZ71dXiPz82zunYmlB20jnVTxW458XmAzO8Oo0.webp?r=efe"
+            },
+
+            {
+                "name": "hannibal",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf4ler4_4VJsAqpbrF7-lrptl7vtJjICjHR7r6GUks5nyU-LhmV2mZcgW8DImtPa5wAMw666Bv5V27qZNCfBZ7nP559yiXr2S3A.webp?r=238"
+            },
+            {
+                "name": "el orfanato",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSvvcBaJ3luMHWQvHVnZ1bOq6N1PfwZTdTC-rF6SfO5U3zZXOnNIi-R6fCcMUOZ3lZ7zyPImIjyTuv0KqN3JBXGulKE9kzU52gg.webp?r=fb1"
+            },
+            {
+                "name": "12 horas para sobrevivir",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSTr4gn8lpeNl_GTj3JxuLHeP8h-TVP-yN18eAyRfQtJ7c533oGywv4qZzyTrz2q02B464eBnNIbcvJms4Dw-bQguDnKo10TR5E.webp?r=919"
+            },
+            {
+                "name": "hostal",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABalLggCufSZ1G_hoize641tN4kDHllco59IzV50VotFms4quJeOrzqcTVBL9M74BqjY9tJQ2azahnoQkPt3ubHGQKLitteb_wHE.webp?r=978"
+            },
+            
+            {
+                "name": "invasión zombie",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeix8vEw85QYUDqdmdUGpiwlIQ6E9iaKsWITx3Nlx8C5j24lk0kPJmOtHgPSTAEFHTHfOJPTwzLkfjpeP8fBWAB2BTPnIJvVk9c.webp?r=d19"
+            },
+
+            {
+                "name": "escape room sin salida",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTPKPF4m5yZY0QcvYIRMkNwr-Afds27ghV8a_PiyK5PlLLpz_IpXQ_xeHBdzSo97r783BwzkXOJDWncT7DXLgfo8uI-9rIAmkGk.webp?r=531"
+            },
+            {
+                "name": "el rito",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfFD1MNlRcM5HfTjAMSqjlmkYXus6RBDvHUCNvKEfhCO8YR5KYqh1PUHBM2Gwuy5EnDytNLnY7Md15sxV3A-XjdeXlkGN8mctUM.webp?r=86a"
+            },
+            {
+                "name": "tierra de zombies",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSLq7-Ac6KjaRJRcX8HfGqbB4TqB6k9t12ix88769tgahXpSewjQ2iMXwYD01w1cF8iPDd95HK5awGBJkp4BrPkOtl4uns6iYkQ.webp?r=a0f"
+            },
+
+            {
+                "name": "cadáver",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT6cHfOFZmk7JrF-gjABv8-pUNmTz_-ruF0nhYqSIPqikFzjDxPV89XEng8serAh6-5F8RoaGECQJNVzBwZ89_Le7Jm13tZlasU.webp?r=a54"
+            },
+            {
+                "name": "ouija",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUTM07XHXyRlvdvnW1yBLFH84lmuE8EJLMykfSPKpm1byqkYgP3X9tkCFAGZD8_wLJL29yCCv4hwb1i-8sR_WMeeigCZ-BbzLfI.webp?r=37b"
+            },
+            {
+                "name": "mamá",
+                
+                "addlist": false,
+                "description": "",
+                "type": "pelicula",
+                
+                "category": "terror",
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQKUPxzXpIfv5BQwwrtSFtdfEjVXZNO-IPXEJyq250bptBXnzTkWb6LnyTBJd97SSu7h6CWiBHt4gVsPp7DGsK0rDr9WhsOsDCw.webp?r=fec"
+            }
+
+        ]
+    },
+
+
+    {
+        "title": "series",
+        "type": "series",
+        "cat": "series",
+        "content": [
+            {
+                "name": "the walkin dead",
+        
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+        
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR_vNk7eN3p3BpiVvuj1sykgyPIFRMQbhR2XBP3IZxD2GhfCT_xEn1Hx4Rh-R-0wARF4QMF7E6sCtsJJaPXBs15N4CLJGLHWsYM.webp?r=809"
+            },
+            {
+                "name": "ozark",
+        
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+        
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaJVRVFJrOcVLP06IkiqRF2Zmux3CTX9w3jvGokV4jc5mtfGA51JQS8gcDXHo5xldzX653u9wF3W_jWc7tygedxEmsws-Z5t3MPjZgyaMj_6ItFAY815TzglE0lTSSjHxy7U0qSk0sUuunAyyqL7uaJ_zDg71PAuQ73bTGiMBiILtxDlrqLgK8oiiEhwi9kZztYpwfAnpPlPT_3pAo8IGDywvkixAZMj.jpg?r=50e"
+            },
+            {
+                "name": "lucifer",
+        
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+        
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQc9mGMmWNlLkhWh5Si5F-XFG_SHfCRQhpf39-Ukp_AkQKMM2ZeM9xXVWiySYsEKDeGd4EhqLeWsEa-BPCn60exgBfhOw284HTrowmh0Bp0jn-uIQlu9jEJ4eODkWIzit1Xz.jpg?r=31e"
+            },
+
+            {
+                "name": "peaky blinders",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdb9BeS6Dgyh3UHLLS-z0NRjKxEMobIufkmzDDdxs07iWlJayesmt8hZgN_4poZCqINBNDjxrCkZerOFpsdm9nU04SRf90kXc0r2UPJSrv23FI5xEEvmfo030Z9ODJYhrDnn.jpg?r=fdc"
+            },
+            {
+                "name": "vikingos",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTZdeMU5nUq5E1JnncoaBrV8vmAmqQVPgeFimRec0l6vzYsXYYVTU0lwrc-t7rflsZhSacwKnnLMTHON0pjMQJU8M1RH6P2zQP4.webp?r=e15"
+            },
+
+            {
+                "name": "marginal",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ_rpirMBpdfSkzDHjE1OW7o2wTP-q3TcopnNZL9OBcEw9euqFFB2cqAiGYZcCkbdFn_nEKLC15cIPcnLLcXfwaaCfVhl6gVEXn7J4khEAzg774vyGNWXq4eY5Ce_OBPRhcKQDYUKr1DFGpZoEXfwfEDkMWsdzIdw_qW_lTuNk-CI3Z17R055kpOdeIMmoXIpD6SHgqnLPxDh70bi9jHe8TEiwJ1Jj11.jpg?r=ce8"
+            },
+            {
+                "name": "los simuladores",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUnxn9jfUopC1BMqmUoTJ4k7Gj5Zs5UQyv6O2HmrwNbws1gVNwV6UQcnfbyOh4B38lgG1cGHsGJWwdU5eLlNdi5s0YBty1L-0C0.webp?r=5af"
+            },
+
+            {
+                "name": "breaking bad",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ2eejwOmFWqyOd0caBviCBDM1tWDBRunzwQDiD-3eeBNp7Wy-dCxxPsm5zxpuSRyh5E0gZAejeJp20KYnrJZefTBkyGu9etx2k.webp?r=01d"
+            },
+            {
+                "name": "Bienvenidos a EDÉN",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZgnJvrGgc6gYsYyWIkU5I3kknf1K9MgaFBisHnkiHugoeD2Msg1ymwGh15iYLli9ngCjQYm5gzAI2mngSasix-H0FIfIncFnWt8Zji6h6HPdDRR9fFCio-ITScijxe1s9HVbzx_kVpBVVeCNpq0CIN_6rShkW7qgQTFN_8TXnfg5b6PmnqLsR8I8Rnv_iY.jpg?r=666"
+            },
+
+            {
+                "name": "narcos",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYYmiWCoVTptaJxQ2dz_3-gZ2khwmH3bxHUOO4NefcuUof_RWjdbuFfXaM79jWbLs48uArxUuexdoGC1kgxVQuF0nyXSEbsFZkvDQQdRYXXe7aWRl5NLeJ3jTNgMTy0WYoBU.jpg?r=cb4"
+            },
+
+            {
+                "name": "45 dias en la oscuridad",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbu--ighDTyIJosBK73WaxROrFJto9OduS81HS0PGv3AuhYM2MCiUvPgOxwswY9fbvEXM_zw061Rhk2fSH_8LEN9LUcjExFhRfa8hcoIPElTikLVsM8qtLPsJoPAmr-Cr_3jBPf8fr1H9XLuc8T03ZWHNnbADJiai0cRh1n-SetyN3Q1K4IFg2u8aTaEClA.jpg?r=509"
+            },
+            {
+                "name": "pasion de gavilanes",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABec6In1jeWzO1Hf7bVdTMj4ebnVZhrcDOmhz96NPvfORrdH73_LRNMyKYY9THGcS_psSEiHTsMb1AtQrI91klYMdAAXAeDTXupKkEAAgbD1mVda4AiiKYCzmucFI3aTB463KDqfc_vG_cJ7XfaX_3oQsfmUjqAtK_Fw.webp?r=8dd"
+            },
+            {
+                "name": "pedro el escamoso",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABb9R93FA41BDdHvn0eV_rs8Mvs76jp1MEvTgIHIHGjuntvcaQYWHxbFeZP9__kFhjM2Us7pFE7Zpz7xmzk4PnIDo9GxMTnKSvj0tObBzbPuFmgK2xk1mltQpbPB1CyUlmsaawuMJ9mxxJotTtwc6UoHYwLcbfP1Dong.webp?r=d99"
+            },
+        
+            {
+                "name": "La reina del flow",
+                
+                "addlist": false,
+                "description": "",
+                "category": "serie",
+                "type": "serie",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRsZs0jFrrYm4BCxw3M6heTxIXXWsRZ9syayrEtBEhNu4Fjs2PwuzGxdU6A4ovPZ8eF6MBbDn4pe00ToJztTq4N7eOkoW5BITGhD7pVk7oZr097hBV6ekho9inf5MAFuQZ65PgcICs5KDTqdB3KhfG9psNFf9nDRfsK_J_uN8PmEHQJyjtgeMFMab13wvBA.jpg?r=755"
+            }
+
+        ]
+    },
+
+
+    {
+        "title": "documentales",
+        "type": "documentales",
+        "cat": "documental",
+        "content": [
+
+            {
+                "name": "el ultimo baile",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW9J5_rSTf1W-djB_t-QM_b8HLT4wKGUWLdRxqcGOSjb4utVxACHIbMEIC-ZHSGFLlJ0kVIzlsOQ3lEuq6JnXT9IM61KfzGE3OEX4zwDtHqBcOMuPrnZ0oz9Z4PAmNfKPACF.jpg?r=524"
+            },
+            {
+                "name": "el imperio romano",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWBmh-1-EggXuyX_vSeMbKM-0zO1O6JtVAYZBYeGoDE6RKTU6pFjVfXqofdwa_aBLaGTWBzCZsQGKurbNNmF49EoTI4E8GzAa2P11CRFtvqFYQcDXrGoTX4HKwrOMToT5xrp.jpg?r=ff1"
+            },
+
+            {
+                "name": "12 animales peligrosos",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRgpAZwyVGuKc6EyTUL6aG-FxtR27V7xHrjOx2YD51eiAaAq-z8Ko1SuYP50lPU6Eeg2XGdSRlBxBDKwzOWFPDJWFZfa67jcM1QKmedSXljN3a6DzVbS0oit4sY3T0O8ZQaa.jpg?r=36a"
+            },
+            {
+                "name": "misterios del titanic",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc65XRZfe0iKM1PAi1yZgb_olHARqiqG0mnQroosvEgtq3R33ftvzmWKAzxUiapfdU0xmHhx5djmTeecfDV5uDz0yxOBZcllQHI.webp?r=575"
+            },
+
+            {
+                "name": "hitler's circle of evil",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTcIiuuTHhcHC619AER2q9BvK4aSXZDIo4cRtfTRQyBSz7mQ0ar5Ww_A-b_OLahia5om29m79ClYET3sPNjVssVKd3B68Q4aNMI.webp?r=9d8"
+            },
+
+            {
+                "name": "matchday inside fc barcelona",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQG90Azrg6JhYC3PNr5j1lReXsbmMxL5f-jGXm6G7oA9NUbQ994gUxoPT8HGExUC_Xq-vsBkmkualNuJctjVvaqVTQ-T5XnIChUA3pCxSStWyxPrMdKsWsdPeqbsMCETELkD.jpg?r=c0a"
+            },
+
+            {
+                "name": "nuestro padre",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ0PWvl13ZJKZdOZy8N8SM9FZLmYR4r9i91tIgrIvBgPFV869b1EVioV75_ImDHFz0wU63RckNXTDjncCVYSie0PVJYyqJ9ZVGRzVYwbVApSlFKMpubgKdL9OYd_ArL2Odij.jpg?r=650"
+            },
+            {
+                "name": "animal",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZlx5teLQ6u-cTFjbMTecQ57SCOEYOfrM-2H5K3BDehAVyR1fqC6vMZiqtHWJPIrA2xXec1obMGIVvCrwyRy0_YUqG8ptG3YQp5DseIo6uyLi9_yUKMGKutpmuEMZZNojPgU.jpg?r=983"
+            },
+            {
+                "name": "nuestro planeta",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY5RgCLXhDwnvgRpPJ4d0S-_mwMEdivRHZOrOzmYvB7sjofNZYQ2gHBfmoTfV8TwtVehpHKvJqTmKjtGt22BFV-Ee_8BasZlkIGn7TMVA1O1NwRlONxzF8B9J_E6CnIjPPhO.jpg?r=1d7"
+            },
+            {
+                "name": "como se convirtieron en tiranos",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYJrzQSpeI2B95IfiEeOxsC_BQ7sdhf6OM-9MrFLqEatohsvO6k5wjNeWFXmQi9Tpy-ftxbwMtR7LqYleulBDl7_xh_2PHQLBMr1z7fJOrhVYSVWy7Uf8Ph1TbUePFe-QbAI.jpg?r=389"
+            },
+
+            {
+                "name": "las cintas de john wayne gacy",
+                
+                "myList": "false",
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSI6EIThw8rmo_Sly6nTZf4yaQDFDurtkqxGko0MKRKD_SwzLdmAA1bjZxIdHfBRUzIAD3QF50Rxs4TNcFd5APUSbg0fnUnYaQHu98EymgKXRVCcchnqC8rbs-HRvB5gafFU.jpg?r=67c"
+            },
+
+            {
+                "name": "animales bebés",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY5T4EWIXBQAbYB13nMoYq1SdSNPbQ99aADfNOV1IkVP-P4FiqzsEI9rh3EQwy3lkkkBerQrqbI-RcNrP7yfTul3i9voWMj8OgJZPevq7YWoZD-mAcEtg1dpuzW-mF5Jp4D0.jpg?r=dc6"
+            },
+
+            {
+                "name": "formula 1 drive to survive",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUqXLEOK3UHK9XfO_9u3_MSOyyYxwydaw_vOwpAB8pNSGQKgAY6v7yaZhQkXKAPwAmRiuGhcqWxuyR1tfKnbffk1in_JvF11l6Xd9WqprVAcHe2WsuE75Frpq3IOYOiRF_oD.jpg?r=10d"
+            },
+            {
+                "name": "El paraiso que sobrevive",
+                
+                "addlist": false,
+                "description": "",
+                "category": "documental",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWTpYXU-DxMf_R422pDuGb2k1l-wp5ZRbbIvvlKmTic_7XSe3uiEvwNzETyER_xj9cOUs1qt_wjfrXC0L2Ctd8E_G6H78JqJxWltmQ0YUcNHqAA2inUd3z6NflsBM6hnzXvo.jpg?r=3ac"
+            }
+
+        ]
+    },
+
+
+    {
+        "title": "dramas",
+        "type": "pelicula",
+        "cat": "drama",
+        "content": [
+            {
+                "name": "bohemia rhapsody",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRWeASTTYgTbHiW1kRQQoOe-s3AsU3DF__eT5fWW_3ptiOfo0fc6SSGP0wH7PWpZO2zK32gGP3GuIdMoGrwrQzFiby48zXPSty8.webp?r=cc9"
+            },
+            {
+                "name": "gladiador",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRTBD_GHXM9QIcvAItue4_MaIGoauyvhZzEQaTeVYq2tM2rgk-sWQZlVANxy0Z9XvgggubXTkx9bypxf9ntY8uokqyToeX2rwSo.webp?r=692"
+            },
+            {
+                "name": "en busca de la felicidad",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT-nv4StEQsaeHNTaf2AsrKP8ym6FjlrQ-k3INGa2ti5txmqwVuAz9uqYgb-7uT0gUkZvdA5f1qkem9STFWFHWdd8Bd9Q_P6NwU.webp?r=213"
+            },
+
+            {
+                "name": "parásitos",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWbTFtLEFL5a-HjQoYKI0XL5Raadlq3gSxCpy49NH3yMWrM8JmqYhboFYc0m9nhj-LBcFm5bV-S5-ce0_HCy-239gK5lQyVVUHk.webp?r=326"
+            },
+            {
+                "name": "taxi driver",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU0lCaByRf6dbOZSqJ6mX55cmP0UZ6ynxZW3ctTvECs4hEVk-7VdVfIFfzVJ0macVIhwPc7Mn5MIGQ_auzKmApWjWxNpC04tkVs.webp?r=08f"
+            },
+
+            {
+                "name": "los hijos de la calle",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXMG_n3Fy08MkZT1uFCA3hES0itJrLkV_kL9NTlFlN0fsmFAGkrINctXwcWdcS_lAxSzwTP8swWnGKve8LrCVhlP2mur7tVD19Y.webp?r=628"
+            },
+            {
+                "name": "historia de un matrimonio",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbC2VpdbG9XAp9BeI5GAUBuve_L791XfFUkkfE8RVxwe-vdlmBHodzuOJ_8gzoF6mx9zmFJJ64BAr-G9L65UMf5wrubkKFEfnJFtHdtcsApi4P3ympYSoBU63M6daQmqrS-E.jpg?r=df6"
+            },
+
+            {
+                "name": "el irlandés",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU9Jondb9YioyqMYCc5EzfuWzVinzs2MXuq5pVkjRobmduuPeQQYyQJJdEcp_IEDU26JK8qP5jX-dI6w5VCTJ4BftwOKT-M8kS7OYcQWlLdLzEwapE80r9cELMl0KMaL0F97.jpg?r=302"
+            },
+
+            {
+                "name": "hombre en llamas",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYJd4CVIgv5zxyz9k1PkfoAlyNi2fECL72ihxG4vm3UaarzXTH8NgbnONsY8g1BAdr9sKvppA670fb3_NtZn731jhcsDEIEC-mo.webp?r=858"
+            },
+
+            {
+                "name": "cincuenta sombras de GREY",
+                
+                "myList": "false",
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRTmqQOYj2usVBSHPW8d_8utGM0wfBjUAtG0fqrG6B6q1j2Gi20mWHJD9LOlcWkxNjyTfVyP2jDfdKif3Zs4QkOPhxmZ9obZywA.webp?r=154"
+            },
+
+            {
+                "name": "365 dias",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXjoFq2hKNR0FYY8XHVRYO7quPUfvP-T4hovoD1P1-q1QUECM9Ku4rtpWYJ6PDU86a4JeW1WPhQO74wMw7oH6qoz77t_8J74xfU.webp?r=ec2"
+            },
+            {
+                "name": "gran torino",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVRcQ5Unmeg21EZUeUaFXlQE53CnsusINAi0OJ3xhkpP6F7up-FDxJa8CYpqT09n58IXATG6t_0h5XTltgvMDI9qqWke1W-kuSw.webp?r=9ca"
+            },
+
+            {
+                "name": "forrest gump",
+                
+                "addlist": false,
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWbvrhcT32YOQlSzBD0cXJFaZdx9D4LVJC2cDPf7JYdY45NTu7qigKX_o2wHNNk6BWqM7a2hR2Xcabka23JG11FWWCOaDOqN8GA.webp?r=188"
+            },
+
+            {
+                "name": "21 blackjack",
+                
+                "myList": "false",
+                "description": "",
+                "category": "drama",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXyrdhN8sFWg52BW1zotvHytbxpuyE24t9Xj8yPzhmHP5ecoMvPgmDkgsNzwDZkgQrxiQ64nhEqAZ_l7REfcYoEFShiY2u3Tlho.webp?r=668"
+            }
+
+        ]
+    },
+
+
+    {
+        "title": "accion y aventura",
+        "type": "pelicula",
+        "cat": "accion",
+        "content": [
+
+            {
+                "name": "cara cortada",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaR8LDuUXoL6dyAw2_FXIrbRx0Ye0mMTpC2L5LO9NcvnAFOus_3VD3I1Nx4AMFmwqWNQuqOmFcl3Vz4mTHPbKUkTkzpT6ykQM1Y.webp?r=d7e"
+            },
+
+            {
+                "name": "john wick 2",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSXAP-Jtokw1r30oiPm1yAVxRYN2qQ4_BDiNP9Z0nkaLVWNYqiSVJg7ny-7RV-6nnFJie32M8tY8FTrqvvzbdDHP8nKU6YvXC7w.webp?r=8cb"
+            },
+
+            {
+                "name": "rescatando al soldado Ryan",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXUQVyIgpU3ugkM02O5Qcsawby3gbfvtZPGWxfDPuIVcBQo-OgglIxqil7cpICs9jlGjaHFiAbWuUCon6QYPZyAb6CP37OHyK0w.webp?r=77d"
+            },
+            {
+                "name": "hombres de negro",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfZyQ_gm7_0pI3I5eh_urd5gs_khPSS97tE6BenryueeGAqdhR5Wd4Ed7BdC0QUejbmmPQ_mbF0CHTRSSSX9arYu_HxUctnEEWI.webp?r=66a"
+            },
+            {
+                "name": "zona de miedo",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSj7y5TBHVS8bHAiyNchLtAJaBoeepWpUj_J5361z47uZeVAH_pnhrf1DDWohqV_VCfb3G-WolkKu2vfIy6VRujOJ0sBQKlTV6I.webp?r=e12"
+            },
+
+            {
+                "name": "el hombre araña 2",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUVQRli1VJVetos59N7L3PFUfxchaB_Ap0dIhGfRx8Rrz6fq7mhpDctYsr4_LVMztN2KoCZ8C3hgessc_9tPG11zFEQ_CZrLRtE.webp?r=0be"
+            },
+
+            {
+                "name": "troya",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTX73a5MpEEk2ljJrbnCjc4iOwaAbfXnD1zAFjqmmkEe08HaaG3bxii0J2lSyj2n97HlUbuR8FEzCjDLehaNYH_r1tGklfjk3yk.webp?r=537"
+            },
+            {
+                "name": "el plan perfecto",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXQxIlOGZ1mVZUGOTsBQ1qR4eRkAZrxG-0A-tuA0VFqiuWplffoseOfEmAT6x_CA5mw9e8_jHHeEoFtfkedSkJc1bxuk8FtCBzU.webp?r=f04"
+            },
+            {
+                "name": "el club del la pelea",
+                
+                "myList": "false",
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTeYc_XBnyPwqt6sd6YXts9PehRDdSuVDM3DFqGhXlGfPnckwL6nKoLMQV-9iDuTxGhQaEJuZx5be-rFotpIiZ9azOTH3mMiIvk.webp?r=054"
+            },
+
+            {
+                "name": "el renacido",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXaxho5TGprHuVz8ZwK18msg-QgwYhK8OTt3xxDgZE9qyAPvz7Vij08EhFHI5I_AIbxjB8_M1ShQSzFy023UcfLJP79-51RbOXI.webp?r=8ce"
+            },
+            {
+                "name": "sherlock holmes",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVBLrGKVtEIRvtogIVB5_MhaNMWGzN8Pnvgwvwl5uV0cAHU5BrkHyGnnlH4EjrwyNm9oqFf5AFd71ylCL6ADT6VAcRs61K35yyw.webp?r=6dd"
+            },
+
+            {
+                "name": "gánster americano",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYuZtPrFTP8Q7KJ7B5bqit2C7GykJaitCwJ4Dbw6BYx5O73shDSmNfsa_my-C0oIPda24pTRg6wxA1aXiMjGyK-eN964k0Zj-lI.webp?r=811"
+            },
+
+            {
+                "name": "plan de escape",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABacPE6dShps8MHrxcjUVfi3C__HU7b1ntWNEX27GpoKphz2kTqgEve8Ijf_Q9ckB0DhXi91Uvhkq_4m2upwoG1y9B-5loUjoyMI.webp?r=d6d"
+            },
+
+            {
+                "name": "El protector",
+                
+                "addlist": false,
+                "description": "",
+                "category": "accion",
+                "type": "pelicula",
+
+                "reputation": "",
+                "tendencia": "false",
+                
+                "img": "https://occ-0-3791-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSZvaCPcek-mUOfs1_A4YWe0GooyzFQ6qCFjwjg_c8EPNNk0DM2eodmQbfrTuyB743-WLZFdxMfR6x9oLp0ZOgRnVfPgFR3RnPE.webp?r=14f"
+            }
+
+
+        ]
+    }
+
+
+    
+    
+
+
+
+]
